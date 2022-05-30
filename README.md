@@ -7,5 +7,5 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - CSS
 - Bootstrap 5
 
-# Deploy :runner:
+# Deploy 🔌
 https://gustavogss.github.io/shopdev/
