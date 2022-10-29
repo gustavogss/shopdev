@@ -8,4 +8,7 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - Bootstrap 5
 
 # Deploy 🔌
+
 [Clique Aqui](https://gustavogss.github.io/shopdev/)
+
+<img src="https://github.com/gustavogss/shopdev/blob/main/images/site.png"/>
