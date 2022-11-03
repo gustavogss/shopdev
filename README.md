@@ -11,6 +11,7 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - Adicionar banners diferentes no slider da página
 - Fazer a página de checkout dos produtos
 - Adicionar itens no carrinho
+- Adicionar modo dark a página
 
 
 
