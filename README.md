@@ -7,6 +7,11 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - CSS
 - Bootstrap 5
 
+# Tarefas pendentes 
+- Fazer a página de checkout dos produtos
+- Integrar gateways de pagamento gratuitos: pagseguro
+- Integrar módulo de frete: FreeNet
+
 # Deploy 🔌
 
 [Clique Aqui](https://gustavogss.github.io/shopdev/)
