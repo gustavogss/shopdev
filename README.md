@@ -9,8 +9,8 @@ Front de um ecommerce que vende produtos para nerds e programadores
 
 # Tarefas pendentes 
 - Fazer a página de checkout dos produtos
-- Integrar gateways de pagamento gratuitos: pagseguro
-- Integrar módulo de frete: FreeNet
+- Adicionar banners diferentes no slider da página
+- Verificar gateways de frete e pagamento
 
 # Deploy 🔌
 
