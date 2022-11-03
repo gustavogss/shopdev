@@ -7,10 +7,12 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - CSS
 - Bootstrap 5
 
-# Tarefas pendentes 
-- Fazer a página de checkout dos produtos
+# Tarefas pendentes:
 - Adicionar banners diferentes no slider da página
-- Verificar gateways de frete e pagamento
+- Fazer a página de checkout dos produtos
+- Adicionar itens no carrinho
+
+
 
 # Deploy 🔌
 
