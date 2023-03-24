@@ -1,5 +1,5 @@
-# Projeto :rocket:
-Ecommerce que vende produtos para desenvolvedores
+# Projeto ShopDev:rocket:
+Projeto tipo ecommerce que vende produtos para desenvolvedores de software
 
 # Tecnologias e Ferramentas utilizadas :robot:
 - VsCode
