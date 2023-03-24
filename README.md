@@ -12,7 +12,7 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - Fazer a página de checkout dos produtos
 - Adicionar itens no carrinho
 - Adicionar modo dark a página
-
+- Integrar gateways de pagamento e frete
 
 
 # Deploy 🔌
