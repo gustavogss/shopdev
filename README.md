@@ -13,6 +13,7 @@ Ecommerce que vende produtos para desenvolvedores
 - Adicionar itens no carrinho
 - Adicionar modo dark a página
 - Integrar gateways de pagamento e frete
+- Melhorar a resposividade
 
 
 # Deploy 🔌
