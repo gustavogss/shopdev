@@ -3,8 +3,7 @@ Ecommerce que vende produtos para desenvolvedores
 
 # Tecnologias e Ferramentas utilizadas :robot:
 - VsCode
-- HTML
-- CSS
+- HTML5
 - Bootstrap 5
 - Javascript
 
