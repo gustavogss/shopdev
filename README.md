@@ -6,6 +6,7 @@ Front de um ecommerce que vende produtos para nerds e programadores
 - HTML
 - CSS
 - Bootstrap 5
+- Javascript
 
 # Tarefas pendentes:
 - Adicionar banners diferentes no slider da página
