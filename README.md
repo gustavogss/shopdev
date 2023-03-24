@@ -1,5 +1,5 @@
 # Projeto :rocket:
-Front de um ecommerce que vende produtos para nerds e programadores
+Ecommerce que vende produtos para desenvolvedores
 
 # Tecnologias e Ferramentas utilizadas :robot:
 - VsCode
