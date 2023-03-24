@@ -1,4 +1,4 @@
-# Projeto ShopDev 🎮
+# Projeto ShopDev 🛒
 Projeto tipo ecommerce que vende produtos para desenvolvedores de software
 
 # Tecnologias e Ferramentas utilizadas :robot:
