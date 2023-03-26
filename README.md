@@ -13,7 +13,7 @@ Projeto tipo ecommerce que vende produtos para desenvolvedores de software
 - Adicionar itens no carrinho
 - Adicionar modo dark a página
 - Integrar gateways de pagamento e frete
-- Melhorar a resposividade
+- Melhorar a responsividade
 
 
 # Deploy 🔌
